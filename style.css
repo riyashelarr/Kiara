@@ -1,0 +1,17 @@
+body {
+     background-color: rgb(148, 208, 175);
+     margin: 0;
+    padding: 10;}
+#intro 
+{position: absolute;
+bottom: 0;
+display: table; 
+width: 100%;  
+height: 100%;}
+h1 {font-size: 50px; 
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color:rgba(6, 87, 12, 0.746); }  
+h3 {font-size:50px; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color:rgba(6, 87, 12, 0.746); }
+h4{font-size:29; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  color:rgba(6, 87, 12, 0.746); }
+fieldset{border: 3px solid rgba(6, 87, 12, 0.746); margin-left: 20px; margin-right: 20px; color:rgba(6, 87, 12, 0.746); }
+img{border: 7px dotted green; border-radius: 100px; height: 300px; width: 300px;}
+.image{width:305px; height:290px;}
